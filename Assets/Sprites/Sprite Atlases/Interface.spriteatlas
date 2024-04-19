@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Interface
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ed4581ec055300b448969e8fdfafb841, type: 3}
+    - {fileID: 2800000, guid: ed86fc494879a7442b73656d4f5bf2f6, type: 3}
+    - {fileID: 2800000, guid: 7f4cc39ef2b075e4f80c6f777dc64952, type: 3}
+    - {fileID: 2800000, guid: 0c72d12f083ef2c4ca436028d525c5a0, type: 3}
+    - {fileID: 2800000, guid: 19d5e5757af718f4aa93753ce397dc70, type: 3}
+    - {fileID: 2800000, guid: 3ffbaa8b5e4f8e84d8c66c0bf7580178, type: 3}
+    - {fileID: 2800000, guid: ace107893865e8243929ea9d65fda173, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 19d5e5757af718f4aa93753ce397dc70, type: 3}
+  - {fileID: 21300000, guid: ed86fc494879a7442b73656d4f5bf2f6, type: 3}
+  - {fileID: 21300000, guid: ace107893865e8243929ea9d65fda173, type: 3}
+  - {fileID: 21300000, guid: 3ffbaa8b5e4f8e84d8c66c0bf7580178, type: 3}
+  - {fileID: 21300000, guid: ed4581ec055300b448969e8fdfafb841, type: 3}
+  - {fileID: 21300000, guid: 7f4cc39ef2b075e4f80c6f777dc64952, type: 3}
+  - {fileID: 21300000, guid: 0c72d12f083ef2c4ca436028d525c5a0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Gear
+  - Start
+  - Square
+  - Rhombus
+  - Button
+  - Arrow
+  - Square
+  m_RenderDataMap: {}
+  m_Tag: Interface
+  m_IsVariant: 0
